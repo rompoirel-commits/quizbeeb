@@ -1,0 +1,540 @@
+[
+  {
+    "categorie": "oiseaux",
+    "image": "images/pic_epeiche.jpg",
+    "reponses": ["pic épeiche", "dendrocopos major"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/pic_epeiche2.jpg",
+    "reponses": ["pic épeiche", "dendrocopos major"]
+  },
+   {
+    "categorie": "oiseaux",
+    "image": "images/faucon_crecerelle.jpg",
+    "reponses": ["Faucon crécerelle", "Falco tinnunculus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/rougegorge.jpg",
+    "reponses": ["Rouge-gorge familier","Erithacus rubecula", "Rougegorge","Rouge-gorge","Rougegorge familier"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/pic_vert.jpg",
+    "reponses": ["Pic vert", "Picus viridis"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/martin_pecheur.jpg",
+    "reponses": ["martin-pêcheur", "alcedo atthis","martin-pêcheur d'europe"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/heron_cendre.jpg",
+    "reponses": ["héron cendré", "ardea cinerea"]
+  },
+   {
+    "categorie": "oiseaux",
+    "image": "images/engoulvent.jpg",
+    "reponses": ["engoulevent d'europe", "Caprimulgus europaeus","engoulevent"]
+  },
+   {
+    "categorie": "oiseaux",
+    "image": "images/petit_duc.jpg",
+    "reponses": ["Petit duc scops", "Otus scops","petit duc"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/cheveche_d_athena.jpg",
+    "reponses": ["Chevêche d'Athéna", "Athene noctua"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/rougequeue_noir.jpg",
+    "reponses": ["rougequeue noir", "Phoenicurus ochruros"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/rougequeue_noir2.jpg",
+    "reponses": ["rougequeue noir", "Phoenicurus ochruros"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/busard_des_roseaux.png",
+    "reponses": ["Busard des roseaux", "Circus aeruginosus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/foulque_macroule.jpg",
+    "reponses": ["foulque macroule", "Fulica atra"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/bergeronette_grise.jpg",
+    "reponses": ["Bergeronnette grise", "Motacilla alba"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/aigrette_garzette.png",
+    "reponses": ["Aigrette garzette", "Egretta garzetta"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/tourterelle_turque.jpg",
+    "reponses": ["Tourterelle turque", "Streptopelia decaocto"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/mesange_charboniere.jpg",
+    "reponses": ["Mésange charbonière", "Parus major"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/heron_garde_boeuf.png",
+    "reponses": ["Héron garde-boeufs", "Ardea ibis","Héron garde-boeuf"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/geai_des_chene.jpg",
+    "reponses": ["Geai des chênes", "Garrulus glandarius"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/traquet_motteux.jpg",
+    "reponses": ["traquet motteux", "Oenanthe oenanthe"]
+  },
+   {
+    "categorie": "oiseaux",
+    "image": "images/sittelle_torchepot.jpg",
+    "reponses": ["sitelle torchepot", "Sitta europaea"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/roitelet_huppé.jpg",
+    "reponses": ["roitelet huppé", "Regulus regulus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/pinson_des_arbres.jpg",
+    "reponses": ["pinson des arbres", "Fringilla coelebs"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/Ouette_d'Egypte.jpg",
+    "reponses": ["Ouette d'egypte", "Alopochen aegyptiaca"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/mouette_rieuse.JPG",
+    "reponses": ["mouette rieuse", "Chroicocephalus ridibundus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/mesange_huppe.JPG",
+    "reponses": ["mesange huppée", "Lophophanes cristatus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/buse_variable.jpg",
+    "reponses": ["Buse variable", "Buteo buteo"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/canard_colvert.JPG",
+    "reponses": ["Canard colvert", "Anas platyrhynchos"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/canard_mandarin.jpg",
+    "reponses": ["Canard mandarin", "Aix galericulata"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/chevalier_sylvain.jpg",
+    "reponses": ["Chevalier sylvain", "Tringa glareola"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/corneille_noire.jpg",
+    "reponses": ["Corneille noire", "Corvus corone"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/etourneau_sansonet.jpg",
+    "reponses": ["Etourneau sansonnet", "Sturnus vulgaris"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/etourneau_sansonnet2.jpg",
+    "reponses": ["Etourneau sansonnet", "Sturnus vulgaris"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/fauvette_a_tete_noire.jpg",
+    "reponses": ["Fauvette à tête noire", "Sylvia atricapilla"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/harle_bièvre.jpg",
+    "reponses": ["Harle bièvre", "Mergus merganser"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/hirondelle_de_rivage.jpg",
+    "reponses": ["Hirondelle de rivage", "Riparia riparia"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/hirondelle_rustique.jpg",
+    "reponses": ["Hirondelle rustique", "Hirundo rustica"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/merle_noir.JPG",
+    "reponses": ["Merle noir", "Turdus merula"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/mesange_a_longue_queue.jpg",
+    "reponses": ["Mésange à longue queue", "Orite à longue queue", "Aegithalos caudatus"]
+  },
+
+{
+    "categorie": "oiseaux",
+    "image": "images/mesange_charbonnière.jpg",
+    "reponses": ["Mésange charbonnière", "Parus major"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/troglodyte_mignon.jpg",
+    "reponses": ["troglodyte mignon", "Troglodytes troglodytes"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/grebe_castagneux.jpg",
+    "reponses": ["Grèbe castagneux", "Tachybaptus ruficollis"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/cincle_plongeur.jpg",
+    "reponses": ["Cincle plongeur", "Cinclus cinclus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/chouette_hulotte.jpg",
+    "reponses": ["chouette hulotte", "Strix aluco"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/bernache_nonnette.jpg",
+    "reponses": ["bernache nonnette", "Branta leucopsis"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/pie_grieche_eccorcheur.jpg",
+    "reponses": ["pie-grieche éccorcheur", "Lanius collurio"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/oie_cendree.jpg",
+    "reponses": ["oie cendrée", "Anser anser"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/moineau_domestique.JPG",
+    "reponses": ["moineau domestique", "Passer domesticus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/grebe_huppe.jpg",
+    "reponses": ["Grèbe huppé", "Podiceps cristatus"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/cygne_tubercule.jpg",
+    "reponses": ["Cygne tuberculé", "Cygnus olor"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/cigogne_blanche.jpg",
+    "reponses": ["Cigogne blanche", "Ciconia ciconia"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/canneton.jpg",
+    "reponses": ["Canard colvert", "Anas platyrhynchos"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/buse_variable.jpg",
+    "reponses": ["Buse variable", "Buteo buteo"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/chardonneret_elegant.jpg",
+    "reponses": ["Chardonneret elegant", "Chardonneret élégant", "Carduelis carduelis"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/chevalier_arlequin.jpg",
+    "reponses": ["Chevalier arlequin", "Tringa erythropus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/corneille-mantelee.jpg",
+    "reponses": ["Corneille mantelee", " Corneille mantelée", "Corvus cornix"]
+  },
+  {
+    "categorie": "oiseaux",
+    "image": "images/chevalier_arlequin.jpg",
+    "reponses": ["Cygne tuberculé", "Cygnus olor", "Cygne tubercule"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/echasse_blanche.jpg",
+    "reponses": ["Echasse blanche", "Himantopus himantopus", "échasse blanche"]
+  },
+{
+    "categorie": "mammifères",
+    "image": "images/elan.jpg",
+    "reponses": ["Elan", "Alces alces"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/flamant_rose.jpg",
+    "reponses": ["Flamant rose", "Phoenicopterus roseus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/flamant_rose2.jpg",
+    "reponses": ["Flamant rose", "Phoenicopterus roseus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/flamant_rose3.jpg",
+    "reponses": ["Flamant rose", "Phoenicopterus roseus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/flamant_rose4.jpg",
+    "reponses": ["Flamant rose", "Phoenicopterus roseus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/fulmar_boreal.jpg",
+    "reponses": ["Fulmar boréal", "Fulmar boreal", "Fulmarus glacialis"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/goeland_cendre.JPG",
+    "reponses": ["Goéland cendré", "Goeland cendre", "Larus canus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/grande_aigrette.jpg",
+    "reponses": ["Grande aigrette", "Ardea alba", "Egretta alba"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/heron_cendre.jpg",
+    "reponses": ["Héron cendré", "Heron cendre", "Ardea cinerea"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/huitrier_pie.jpg",
+    "reponses": ["Huitrier pie", "Haematopus ostralegus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/ibis_falcinelle.jpg",
+    "reponses": ["Ibis falcinelle", "Plegadis falcinellus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/ibis_falcinelle2.jpg",
+    "reponses": ["Ibis falcinelle", "Plegadis falcinellus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/lagopede_alpin.jpg",
+    "reponses": ["Lagopède alpin", "Lagopus muta", "Lagopede alpin"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/lagopede_alpin2.jpg",
+    "reponses": ["Lagopède alpin", "Lagopus muta", "Lagopede alpin"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/lagopede_alpin3.jpg",
+    "reponses": ["Lagopède alpin", "Lagopus muta", "Lagopede alpin"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/lagopede_alpin4.jpg",
+    "reponses": ["Lagopède alpin", "Lagopus muta", "Lagopede alpin"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/lagopede_alpin5.jpg",
+    "reponses": ["Lagopède alpin", "Lagopus muta", "Lagopede alpin"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/mesange_bleue.jpg",
+    "reponses": ["Mésange bleue", "Mesange bleue", "Cyanistes caeruleus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/milan_noir.jpg",
+    "reponses": ["Milan noir", "Milvus migrans"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/milan_royal.jpg",
+    "reponses": ["Milan royal", "Milvus milvus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/mouette_rieuse.jpg",
+    "reponses": ["Mouette rieuse", "Chroicocephalus ridibundus"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/mouette_tridactyle.jpg",
+    "reponses": ["Mouette tridactyle", "Rissa tridactyla"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/pipit_farlouse.jpg",
+    "reponses": ["Pipit farlouse", "Anthus pratensis"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/pluvier_dore.jpg",
+    "reponses": ["Pluvier doré", "Pluvier dore", "Pluvialis apricaria"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/pygargue_a_queue_blanche.jpg",
+    "reponses": ["Pygargue à queue blanche", "Pygargue a queue blanche", "Haliaeetus albicilla"]
+  },
+{
+    "categorie": "oiseaux",
+    "image": "images/sterne_pierregarin.jpg",
+    "reponses": ["Sterne pierregarin", "Sterna hirundo"]
+  },
+
+
+
+
+
+  {
+    "categorie": "mammiferes",
+    "image": "images/grand_rhinolophe.jpg",
+    "reponses": ["grand rhinolophe", "Rhinolophus ferrumequinum"]
+  },
+  {
+    "categorie": "mammiferes",
+    "image": "images/grande_noctule.jpg",
+    "reponses": ["grande noctule", "nyctalus lasiopterus"]
+  },
+  {
+    "categorie": "mammiferes",
+    "image": "images/serotine_comune.jpg",
+    "reponses": ["Serotine commune", "Eptesicus serotinus"]
+  },
+  {
+    "categorie": "mammiferes",
+    "image": "images/molosse_de_cestoni.jpg",
+    "reponses": ["molosse de cestoni", "Tadarida teniotis"]
+  },
+  {
+    "categorie": "mammiferes",
+    "image": "images/oreillard_gris.jpg",
+    "reponses": ["oreillard gris", "Plecotus austriacus"]
+  },
+    {
+    "categorie": "mammiferes",
+    "image": "images/oreillard_roux.jpg",
+    "reponses": ["oreillard roux", "Plecotus auriatus"]
+  },
+     {
+    "categorie": "mammiferes",
+    "image": "images/vesper_de_savi.jpg",
+    "reponses": ["Vespère de savi", "Hypsugo savii"]
+  },
+  {
+    "categorie": "mammiferes",
+    "image": "images/minio.jpg",
+    "reponses": ["Minioptère de Schreibers", "Miniopterus schreibersii"]
+  },
+ {
+    "categorie": "mammiferes",
+    "image": "images/barbastelle.jpg",
+    "reponses": ["Barbasrelle d'europe", "Barbastella barbastellus"]
+  },
+  {
+    "categorie": "mammiferes",
+    "image": "images/ragondin.JPG",
+    "reponses": ["Ragondin", "Myocastor coypus"]
+  },
+
+
+
+
+
+  {
+    "categorie": "reptiles",
+    "image": "images/vipere_peliade.jpg",
+    "reponses": ["vipère peliade", "Vipera berus"]
+  },
+  {
+    "categorie": "reptiles",
+    "image": "images/Hemidactyle_verruqueux.jpg",
+    "reponses": ["Hémidactyle verruqueux", "Hemidactylus turcicus"]
+  },
+  {
+    "categorie": "reptiles",
+    "image": "images/tarante_de_mauretanie.jpg",
+    "reponses": ["Tarente de Maurétanie", "Tarentola mauritanica"]
+  },
+  {
+    "categorie": "reptiles",
+    "image": "images/lezard_vert.jpg",
+    "reponses": ["Lézard vert occidental", "Lacerta bilineata","Lézard à deux raies"]
+  },
+  {
+    "categorie": "reptiles",
+    "image": "images/orvet.jpg",
+    "reponses": ["orvet fragile", "Anguis fragilis","orvet"]
+  },
+
+
+
+
+
+{
+    "categorie": "odonates",
+    "image": "images/petite_nymphe_au_corps_de_feu.jpg",
+    "reponses": ["Petite nymphe au corps de feu ", "Pyrrhosoma nymphula"]
+  },
+{
+    "categorie": "odonates",
+    "image": "images/petite_nymphe_au_corps_de_feu2.jpg",
+    "reponses": ["Petite nymphe au corps de feu ", "Pyrrhosoma nymphula"]
+  }
+]

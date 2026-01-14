@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Naturaliste BEEB</title>
+
+    <style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #e0f7fa, #b2ebf2);
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #quiz, #choixCategorie {
+        background-color: white;
+        padding: 30px 40px;
+        border-radius: 15px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        text-align: center;
+        max-width: 400px;
+        width: 90%;
+    }
+
+    h1 {
+        color: #00796b;
+        margin-bottom: 20px;
+    }
+
+    img {
+        border-radius: 15px;
+        box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+        transition: transform 0.3s ease;
+    }
+
+    img:hover { transform: scale(1.05); }
+
+    input[type="text"] {
+        padding: 12px;
+        font-size: 16px;
+        width: 80%;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        margin-bottom: 5px;
+    }
+
+    #suggestions {
+        width: 80%;
+        margin: auto;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        text-align: left;
+        max-height: 180px;
+        overflow-y: auto;
+        margin-bottom: 15px;
+    }
+
+    .suggestion {
+        padding: 8px 12px;
+        cursor: pointer;
+    }
+
+    .suggestion:hover { background-color: #e0f7fa; }
+
+    button {
+        padding: 12px 25px;
+        font-size: 16px;
+        margin: 5px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    button#valider { background-color: #4caf50; color: white; }
+    button#suivant { background-color: #2196f3; color: white; }
+
+    #choixCategorie button {
+        background-color: #ff9800;
+        color: white;
+        width: 100%;
+        margin: 8px 0;
+    }
+
+    button:hover { opacity: 0.85; }
+
+    #message {
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    #score { font-weight: bold; color: #00796b; font-size: 18px; }
+
+    #finQuiz button {
+        background-color: #9c27b0;
+        color: white;
+        width: 100%;
+        margin: 8px 0;
+    }
+    </style>
+</head>
+<body>
+
+<h1>Quiz Naturaliste BEEB</h1>
+
+<!-- Écran de sélection de catégorie -->
+<div id="choixCategorie">
+    <p>Choisissez une catégorie :</p>
+    <button onclick="demarrerQuizDuJour()">Quiz du jour</button>
+    <button onclick="demarrerAvecCategorie('oiseaux')">🐦Oiseaux</button>
+    <button onclick="demarrerAvecCategorie('reptiles')">🐍Reptiles</button>
+    <button onclick="demarrerAvecCategorie('mammiferes')">🦇🐺Mammifères</button>
+     <button onclick="demarrerAvecCategorie('odonates')">Odonates</button>
+    <button onclick="demarrerAvecCategorie('plantes')">🌿Plantes</button>
+    <button onclick="demarrerAvecCategorie('toutes')">Toutes</button>
+</div>
+
+<!-- Écran du quiz -->
+<div id="quiz" style="display:none;">
+    <p>Score : <span id="score">0</span></p>
+    <img id="photo" src="" width="300">
+    <br><br>
+    <input type="text" id="reponse" placeholder="Nom de l'espèce" autocomplete="off">
+    <div id="suggestions"></div>
+
+    <button id="valider" onclick="verifier()">Valider</button>
+    <button id="suivant" onclick="suivant()" style="display:none;">Suivant</button>
+    <p id="message"></p>
+
+    <div id="finQuiz" style="display:none; margin-top:20px;">
+        <button onclick="rejouerCategorie()">Rejouer cette catégorie</button>
+        <button onclick="retourMenu()">Retour au menu</button>
+    </div>
+</div>
+
+<!-- Charger le JS externe -->
+<script src="script.js"></script>
+
+</body>
+</html>
