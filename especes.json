@@ -201,8 +201,8 @@
   },
 
 {
-    "categorie": "oiseaux",
-    "image": "images/merle_noir.JPG",
+    "categorie": "plantes",
+    "image": "merle_noir.JPG",
     "reponses": ["Merle noir", "Turdus merula"]
   },
 
@@ -538,5 +538,6 @@
     "reponses": ["Petite nymphe au corps de feu ", "Pyrrhosoma nymphula"]
   }
 ]
+
 
 
