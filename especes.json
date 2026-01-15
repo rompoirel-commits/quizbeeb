@@ -1,7 +1,7 @@
 [
   {
-    "categorie": "oiseaux",
-    "image": "images/pic_epeiche.jpg",
+    "categorie": "plantes",
+    "image": "pic_epeiche.jpg",
     "reponses": ["pic épeiche", "dendrocopos major"]
   },
   {
@@ -538,4 +538,5 @@
     "reponses": ["Petite nymphe au corps de feu ", "Pyrrhosoma nymphula"]
   }
 ]
+
 
